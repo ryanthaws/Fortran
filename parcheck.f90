@@ -1,7 +1,7 @@
       program parcheck
-! computes the principal axis of rotation for an ensemble of polymer
-! structures and computes the alignment of the transition dipole
-! moments in relation to this principal component axis
+!  computes the principal axis of rotation for an ensemble of polymer
+!  structures and computes the alignment of the transition dipole
+!  moments in relation to this principal component axis
 
       implicit none
       integer :: i,j,k,l,m,n
